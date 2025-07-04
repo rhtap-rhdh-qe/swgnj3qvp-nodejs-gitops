@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: swgnj3qvp-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/swgnj3qvp-nodejs
